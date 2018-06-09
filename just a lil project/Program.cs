@@ -10,8 +10,8 @@ namespace just_a_lil_project
     {
         static void Main(string[] args)
         {
-            int x = 0;
-            int y = 55;
+            int x = 12;
+            int y = 22;
 
             x = y + x;
             y = x * y;
