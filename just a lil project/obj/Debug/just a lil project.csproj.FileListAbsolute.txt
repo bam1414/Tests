@@ -1,0 +1,7 @@
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\bin\Debug\just a lil project.exe.config
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\bin\Debug\just a lil project.exe
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\bin\Debug\just a lil project.pdb
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\obj\Debug\just a lil project.csprojResolveAssemblyReference.cache
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\obj\Debug\just a lil project.csproj.CoreCompileInputs.cache
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\obj\Debug\just a lil project.exe
+C:\Users\bam-1\source\repos\just a lil project\just a lil project\obj\Debug\just a lil project.pdb
