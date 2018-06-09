@@ -10,7 +10,12 @@ namespace just_a_lil_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            int x = 0;
+            int y = 55;
+
+            x = y + x;
+            y = x * y;
+            Console.WriteLine(y);
             Console.ReadKey(true);
 
             }
